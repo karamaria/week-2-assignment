@@ -1,1 +1,1 @@
-# week-2-assignment
+In this project, I created an image gallery and made sure the website works well on different screen sizes using media queries. I also added alt text to all the images for accessibility and used event handlers to change the images in the gallery
